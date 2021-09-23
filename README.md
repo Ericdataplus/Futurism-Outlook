@@ -54,6 +54,8 @@ More
 - - [Steve Mann Ted Talk](https://youtu.be/z82Zavh-NhI?t=506) Sousveillance 
 
 
+- - [This Readme as a website.](https://ericdataplus.github.io/Futurism-Outlook/)
+
 
 ```python
 
