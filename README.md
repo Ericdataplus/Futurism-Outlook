@@ -9,7 +9,7 @@ This is generally a summarization on why I'm hopeful for our future regarding th
 - 3d printing [link](https://www.iconbuild.com/)
 - Bionic legs (short term) [Link](https://www.youtube.com/watch?v=tUMY9s_kxD4&t=1070s)
 - Nanorobotics [Link](https://www.instagram.com/p/CI0aK2OnM0v/)
-- Starlink (more connected) [Link](https://www.starlink.com/)
+- Starlink (more connected) [Link](https://satellitemap.space/)
 - Skull transplants [Link](https://www.wired.co.uk/article/3d-printed-skull)
 - Artificial pancreas [Link](https://www.healthline.com/diabetesmine/artificial-pancreas-what-you-should-know)
 - GPT-3 [Link](https://machinelearningknowledge.ai/openai-gpt-3-demos-to-convince-you-that-ai-threat-is-real-or-is-it/)
